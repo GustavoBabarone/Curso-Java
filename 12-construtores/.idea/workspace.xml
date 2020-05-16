@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71c6de6f-e17d-461a-9131-e9dd860989c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bxw48PgLwdEfLBP5pQAQqByn4L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../13-encapsulamento" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71c6de6f-e17d-461a-9131-e9dd860989c3" name="Default Changelist" comment="" />
+      <created>1589586858662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589586858662</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-952" y="154" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589586870149">
+      <screen x="-1600" y="-315" width="1600" height="1160" />
+    </state>
+    <state x="-952" y="154" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/-1600.-315.1600.1160@-1600.-315.1600.1160" timestamp="1589586870149" />
+    <state x="-1020" y="20" key="FileChooserDialogImpl" timestamp="1589586998369">
+      <screen x="-1600" y="-315" width="1600" height="1160" />
+    </state>
+    <state x="-1020" y="20" key="FileChooserDialogImpl/0.0.1366.728/-1600.-315.1600.1160@-1600.-315.1600.1160" timestamp="1589586998369" />
+    <state x="-1143" y="-115" width="998" height="712" key="SettingsEditor" timestamp="1589586988631">
+      <screen x="-1600" y="-315" width="1600" height="1160" />
+    </state>
+    <state x="-1143" y="-115" width="998" height="712" key="SettingsEditor/0.0.1366.728/-1600.-315.1600.1160@-1600.-315.1600.1160" timestamp="1589586988631" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="12-construtores" type="b2602c69:ProjectViewProjectNode" />
+        <item name="12-construtores" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

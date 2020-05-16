@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad1a4767-36c7-4135-86ab-ff4e324782ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bxp6oTLDCYMYWwVOCHpcBxpNGd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../09-interface-grafica" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad1a4767-36c7-4135-86ab-ff4e324782ce" name="Default Changelist" comment="" />
+      <created>1589583425132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589583425132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1208" y="-77" key="#Project_Structure" timestamp="1589586629204">
+      <screen x="-1600" y="-315" width="1600" height="1160" />
+    </state>
+    <state x="-1208" y="-77" key="#Project_Structure/0.0.1366.728/-1600.-315.1600.1160@-1600.-315.1600.1160" timestamp="1589586629204" />
+    <state x="-952" y="154" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589583441153">
+      <screen x="-1600" y="-315" width="1600" height="1160" />
+    </state>
+    <state x="-952" y="154" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/-1600.-315.1600.1160@-1600.-315.1600.1160" timestamp="1589583441153" />
+    <state x="-1020" y="20" key="FileChooserDialogImpl" timestamp="1589586637402">
+      <screen x="-1600" y="-315" width="1600" height="1160" />
+    </state>
+    <state x="-1020" y="20" key="FileChooserDialogImpl/0.0.1366.728/-1600.-315.1600.1160@-1600.-315.1600.1160" timestamp="1589586637402" />
+  </component>
+</project>
